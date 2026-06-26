@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "intelliprint-py"
-version = "0.1.1"
+version = "0.1.2"
 description = "Unofficial Python SDK for the Intelliprint API - Send physical mail as easily as sending email"
 readme = "README.md"
 license = "MIT"
@@ -51,10 +51,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yevhenii/intelliprint-py"
+Homepage = "https://github.com/yevheniidits/intelliprint-py"
 Documentation = "https://docs.intelliprint.net"
-Repository = "https://github.com/yevhenii/intelliprint-py"
-Issues = "https://github.com/yevhenii/intelliprint-py/issues"
+Repository = "https://github.com/yevheniidits/intelliprint-py"
+Issues = "https://github.com/yevheniidits/intelliprint-py/issues"
 
 [tool.hatch.build.targets.sdist]
 include = [
